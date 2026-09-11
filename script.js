@@ -3,7 +3,7 @@
    ========================================================================== */
 const ADMIN_PASSWORD = "admin123";
 const STORAGE_KEY = "glv-appointment-data-v1";
-const DEFAULT_LOGO = "logo.png";
+const DEFAULT_LOGO = "/logo.png";
 
 /* ==========================================================================
    DEFAULT DATA
